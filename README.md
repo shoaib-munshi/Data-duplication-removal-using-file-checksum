@@ -1,0 +1,2 @@
+# Data-duplication-removal-using-file-checksum
+This project is focused on accurately removing unnecessary and redundant data in a short amount of time. It accomplishes this by classifying the test data as redundant or false positive. Also, the cloud-enabled system validates the newly-added data to keep the database free from duplicity. If the data is not found in the database, new data gets appended.
